@@ -1,1 +1,2 @@
-# python i use this to study python
+# python 
+github is a useful tools to work with.
